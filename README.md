@@ -12,15 +12,20 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
-<hr/>
 
 <hr/>
 
-## 🤳 Connect With Me
+## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/andremjr/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         alt="LinkedIn" width="30" height="30"/>
+         alt="LinkedIn" width="45"/>
   </a>
 </p>
+
+<p align="center">
+  <b>Andre Morgan</b><br>
+  Cybersecurity Analyst • DFIR • Incident Response
+</p>
+
