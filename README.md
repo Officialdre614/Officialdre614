@@ -14,15 +14,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 
+<hr/>
+
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://www.linkedin.com/in/andremjr/" />][linkedin]
-
-
-
-[linkedin]: https://linkedin.com/in/___________
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+<p align="left">
+  <a href="https://www.linkedin.com/in/andremjr/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn" width="30" height="30"/>
+  </a>
+</p>
