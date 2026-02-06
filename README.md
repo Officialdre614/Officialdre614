@@ -1,7 +1,15 @@
 ## <a href="https://www.linkedin.com/in/officialdre614/">Andre Morgan</a>'s IT and Cybersecurity Project Portfolio 🔐
+### SOC Analyst | DFIR | Threat Detection | Vulnerability Management
 
 I am a cybersecurity professional with hands-on experience in vulnerability management, threat hunting, and security operations.  
 This portfolio showcases real-world projects focused on detection, remediation, and strengthening enterprise security posture.
+
+## 🛠️ Skills & Tools
+
+🛡️ **Security Operations:** SIEM, Threat Hunting, Incident Response, Log Analysis  
+🔍 **Vulnerability Management:** Scanning, Remediation, Risk Prioritization  
+🧰 **Tools:** Splunk, Microsoft Sentinel, Tenable, Wireshark, PowerShell, Bash  
+📚 **Frameworks:** NIST, MITRE ATT&CK, CIS Controls
 
 
 
