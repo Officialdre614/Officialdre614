@@ -36,6 +36,6 @@ This portfolio showcases real-world projects focused on detection, remediation, 
 
 <p align="center">
   <b>Andre Morgan</b><br>
-  Cybersecurity Analyst ◆ DFIR ◆ Incident Response ◆ Threat Hunter
+  Cybersecurity Analyst ◆ DFIR ◆ Incident Response
 </p>
 
