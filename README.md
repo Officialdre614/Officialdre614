@@ -20,6 +20,7 @@ This portfolio showcases real-world projects focused on detection, remediation, 
 
 ## 🚨 Threat Hunting and Security Operations
 
+- **[Azure RDP Brute Force Investigation](https://github.com/Officialdre614/Azure-RDP-Bruteforce-Investigation)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 
