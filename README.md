@@ -16,7 +16,7 @@ This portfolio showcases real-world projects focused on detection, remediation, 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Officialdre614/Vulnerability-mgmt-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Officialdre614/Programmatic-Vulnerability-Remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
