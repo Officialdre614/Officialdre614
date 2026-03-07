@@ -16,12 +16,12 @@ This portfolio showcases real-world projects focused on detection, remediation, 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Officialdre614/Vulnerability-mgmt-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Azure RDP Brute Force Investigation](https://github.com/Officialdre614/Azure-RDP-Bruteforce-Investigation)**
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)]()**
 
 
 <hr/>
